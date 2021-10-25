@@ -1,7 +1,7 @@
 import os
 
 import pytest
-from saltext.salt_ext_modules_kubernetes import PACKAGE_ROOT
+from saltext.kubernetes import PACKAGE_ROOT
 from saltfactories.utils import random_string
 
 
